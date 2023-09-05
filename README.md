@@ -1,12 +1,52 @@
-# HelloWorld APP
+# Android Prework - *HelloWorld*
 
-### This is the Application created for the CodePath PreWork.
----
-It is a simple application implementing one TextView, one ImageView, and a Button that, when clicked, shows a toast message.
+Submitted by: **Jaresi Nunez**
 
-<!-- Screenshots here -->
-| Neutral State | Clicked State |
-|---|---|
-|![image](https://github.com/jaresinunez/MobileAppDevelopmentI/assets/58448481/16dbaa1c-9f2c-4bc6-a2b2-ce7a14ec5d1b)|![image](https://github.com/jaresinunez/MobileAppDevelopmentI/assets/58448481/81e4b93f-0f21-4b17-b05a-6c34d4d70c63)|
+**Jaresi Nunez** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-![image](https://github.com/jaresinunez/MobileAppDevelopmentI/assets/58448481/ccccca85-69ad-4672-a9e8-30b68c9d178d)
+Time spent: **1** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
+
+The following **optional** features are implemented:
+
+* [x] Log message added to document the button state
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='/HelloWorld.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2023] [Jaresi Numez]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
